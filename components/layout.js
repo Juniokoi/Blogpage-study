@@ -1,6 +1,6 @@
 import React from 'react'
 
-import styles from './layout.module.scss'
+import styles from './layout.module.css'
 
 // eslint-disable-next-line react/prop-types
 export default function Layout ({ children }) {
